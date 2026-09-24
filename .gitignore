@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+# Ignore the local database storage folder created by ChromaDB
+.chroma/
